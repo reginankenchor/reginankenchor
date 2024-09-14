@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Bouncing Name](https://github.com/reginankenchor/reginankenchor/blob/main/DALL%C2%B7E%202024-09-14%2015.25.52%20-%20An%20SVG-style%20image%20showing%20the%20name%20'%E2%9C%A8%20Regina%20Nkenchor%20%E2%9C%A8'%20with%20a%20bright%20yellow%20text%2C%20and%20a%20smooth%20bouncing%20animation%20effect.%20The%20text%20is%20centered%2C%20usi.webp)
-
 Welcome to my GitHub! 
 
 I’m a **software engineer** with over **10 years of experience**, having **led digital transformation projects** in **tax**, **finance**, and **education**, and currently **leading such efforts in the retail and open source ecosystems**. My expertise spans **backend development**, **program and project management**, **developer relations**, **community management**, and **technical support**.
