@@ -16,7 +16,7 @@ Over the years, I’ve:
 - **Hosting a podcast 🎤**, inspiring more women contributions to open source through storytelling.  
 - **Organized over 10 events**, including recurring annual events, ranging from small meetups to large conferences.  
 - **Serving as an OSPO Ambassador** at **IKEA**, acting as a subject matter expert, helping organizations and teams adopt open source tools.  
-- **Served two terms (2020–2024)** as the **Vice President of the GNOME Board of Directors** and **Rotational Governance Committee Secretary and Chair**
+- **Served two terms (2020–2024)** as the vice President of the GNOME Board of Directors** and Rotational Governance Committee Secretary and Chair**
 
 I believe that **"soft skills"**—like communication, empathy, and collaboration—are some of the hardest but most essential skills to master. My goal is to help **developers, communities, and businesses grow**, and in turn, create a healthier, more inclusive open source ecosystem for everyone.
 
