@@ -1,4 +1,4 @@
-![GitHub Profile Cover](https://github.com/reginankenchor/reginankenchor/blob/main/Github%20Profile%20Cover%20.png)
+![GitHub Profile Cover](https://github.com/reginankenchor/reginankenchor/blob/main/Github%20Profile%20Cover%20.jpg)
 
 
 ## Hi there 👋
