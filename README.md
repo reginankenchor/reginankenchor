@@ -23,17 +23,19 @@ I believe that **"soft skills"**—like communication, empathy, and collaboratio
 
 In my free time, I am an **independent researcher** and a **writer**.
 
-## Fun Facts!  
-I love writing, especially on topics that interest me, like **open source**! ✍️
-
----
-
 ### Explore my work:
 
 - [Open Source & OSPO Articles](opensource_and_ospo_articles.md)  
 - [Talks](talks.md)  
 - [Projects, Programs, and Events](projects_and_programs.md)  
 - [Podcasts](podcasts.md)
+
+
+## Fun Facts!  
+Fun Fact: I love writing about topics that interest me, especially open source! ✍️ Whether it’s articles, blogs, or stories, I’m always excited to explore the world of open source. ✍️
+
+---
+
 
 
 
