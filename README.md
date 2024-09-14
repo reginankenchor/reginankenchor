@@ -18,7 +18,7 @@ Over the years, I’ve:
 - **Authored over 15 articles** on Open Source, OSPO, and technology. 
 - **Given over 20 talks 🌍** at open source and technology conferences globally.  
 - **Hosting a podcast 🎤**, inspiring more women contributions to open source through storytelling.  
-- **Organized over 10 events**, including recurring annual events, ranging from small meetups to large conferences.  
+- **Organized over 10 events and programs**, including recurring annual events, ranging from small meetups to large conferences.  
 - **Serving as an OSPO Ambassador** at **IKEA**, acting as a subject matter expert, helping organizations and teams adopt open source tools.  
 - **Served two terms (2020–2024)** as the vice President of the GNOME Board of Directors** and Rotational Governance Committee Secretary and Chair**
 
