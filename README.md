@@ -35,7 +35,7 @@ In my free time, I am an **independent researcher** and a **writer**.
 
 
 ## Fun Facts!  
-Fun Fact: I love writing about topics that interest me, especially open source! ✍️ Whether it’s articles, blogs, or stories, I’m always excited to explore the world of open source. ✍️
+Fun Fact: I love writing about topics that interest me, especially open source! ✍️ Whether it’s articles, blogs, or stories, I’m always eager to share my thoughts.
 
 ---
 
