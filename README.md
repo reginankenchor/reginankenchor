@@ -2,7 +2,9 @@
 
 ### **✨ Regina Nkenchor ✨**
 
-Welcome to my GitHub! I’m a **software engineer** with over **10 years of experience** leading **digital transformation projects** in **tax**, **finance**, **education**, **retail**, and the **open source ecosystem**. My expertise spans **backend development**, **program and project management**, **developer relations**, **community management**, and **technical support**.
+Welcome to my GitHub! 
+
+I’m a **software engineer** with over **10 years of experience** leading **digital transformation projects** in **tax**, **finance**, **education**, **retail**, and the **open source ecosystem**. My expertise spans **backend development**, **program and project management**, **developer relations**, **community management**, and **technical support**.
 
 I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. Leveraging **open source for social good** is a key motivator in my work.
 
