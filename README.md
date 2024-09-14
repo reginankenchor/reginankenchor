@@ -8,7 +8,8 @@ I’m a **software engineer** with over **10 years of experience**, having **led
 
 I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. Leveraging **open source for social good** is a key motivator in my work.
 
-I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.openkidsafrica.org/)**, a non-profit organization focused on empowering children in African rural communities through technology and education. In less than a year, we have reached over **1,000 children** in rural schools in Nigeria. Our work was recognized globally when **OpenKids Africa** was chosen as one of the **Scratch Program 2024** members, where we are helping to support **[The Scratch Education Collaborative (SEC)](https://sip.scratch.mit.edu/sec/)**, an initiative that engages organizations worldwide in a two-year cohort to strengthen their commitment to **equitable creative computing**.
+I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.openkidsafrica.org/)**, a non-profit empowering children in rural Nigeria through technology and education. In less than a year, we’ve impacted over **1,000 children**. Our work was recognized globally when we were selected for the **[Scratch Program 2024](https://sip.scratch.mit.edu/sec/)**, supporting equitable creative computing worldwide.
+
 
 Over the years, I’ve:
 - **Authored over 15 articles** on Open Source, OSPO, and technology. 
