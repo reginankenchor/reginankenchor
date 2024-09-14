@@ -30,4 +30,4 @@ This section contains my articles on Open Source, OSPO (Open Source Program Offi
 
 ---
 
-Feel free to check back regularly for more articles!
+✨ Feel free to check back regularly for more articles! 📚✍️
