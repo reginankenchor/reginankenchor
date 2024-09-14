@@ -5,7 +5,7 @@ This section highlights the various open source projects, programs, and events I
 ---
 
 ## 🛠 **Scalable Onboarding Program**  
-**Role**: Program Manager  
+**Role**: Program Contributor  
 **Link**: [Scalable Onboarding Program](https://gitlab.gnome.org/Teams/Engagement/initiatives/scalable-onboarding)  
 
 A program designed to create a scalable, measurable, and effective onboarding experience for contributors to GNOME.
