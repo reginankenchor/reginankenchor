@@ -14,7 +14,7 @@ You can find all my talks on this [YouTube Playlist](https://www.youtube.com/pla
 
 1. **Repurposing Digital Materials for Tech Lessons in Rural Schools: Bridging the Digital Divide**  
    _Platform_: [YouTube](https://www.youtube.com/watch?v=5p929aZSLFI&list=PLFR3nN23u4nG4VLexiLnjb8SOAi3dlUVQ&index=1&t=679s)  
-   **Event**: We Make Future Conference, Italy  
+   **Event**: We Make Future Conference, Italy 2024
    Discussing the challenges and solutions to repurposing digital materials to improve tech education in rural schools.
 
 2. **Overcoming Obstacles as a Woman Contributor to Open Source Projects**  
