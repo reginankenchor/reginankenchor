@@ -1,6 +1,18 @@
 ## Hi there 👋
 
-### **✨ Regina Nkenchor ✨**
+<h2 style="animation: bounce 2s infinite;">✨ Regina Nkenchor ✨</h2>
+
+<style>
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+</style>
+
 
 Welcome to my GitHub! 
 
