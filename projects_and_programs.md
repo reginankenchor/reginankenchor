@@ -44,6 +44,14 @@ An annual event that gathers new and existing contributors to discuss GNOME tech
 
 ---
 
+## 🌈 **Diversity and Inclusion Project**  
+**Role**: Contributor  
+**Link**: [Diversity and Inclusion Project](https://gitlab.gnome.org/Teams/Engagement/diversity-and-inclusion)  
+
+A project dedicated to promoting diversity and inclusion within the GNOME community, fostering an environment where contributors from all backgrounds feel welcomed.
+
+---
+
 ## 📅 **Events Planned in the GNOME Community**  
 
 You can view all upcoming and past GNOME events [here](https://events.gnome.org/category/7/).
