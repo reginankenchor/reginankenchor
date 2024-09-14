@@ -52,7 +52,7 @@ A project dedicated to promoting diversity and inclusion within the GNOME commun
 
 ---
 
-## 📅 **Events Planned in the GNOME Community**  
+## 📅 **Programs and Events Planned in the GNOME Community**  
 
 You can view all upcoming and past GNOME events [here](https://events.gnome.org/category/7/).
 
