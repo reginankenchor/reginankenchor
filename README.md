@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-I’m a **software engineer** with over **10 years of experience**, having **led digital transformation projects** in **tax**, **finance**, and **education**, and currently **leading such efforts in the retail and open source ecosystems**. My expertise spans **backend development**, **program and project management**, **developer relations**, **community management**, and **technical support**.
+I have over **10 years of experience in the technology industry**, including roles as a software engineer. I’ve led digital transformation projects in tax, finance, and education, and am currently leading similar efforts in the retail and open source ecosystems. My expertise spans **backend development**, **program and project management**, **developer relations**, **community management**, and **technical support**.
 
 I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. Leveraging **open source for social good** is a key motivator in my work.
 
