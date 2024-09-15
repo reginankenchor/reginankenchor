@@ -13,7 +13,7 @@ I have over **10 years of experience in the technology industry**, including rol
 
 I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. Leveraging **open source for social good** is a key motivator in my work.
 
-## Founder of OpenKids Africa
+## Founder and Executive Director of OpenKids Africa
 
 I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.openkidsafrica.org/)**, a non-profit empowering children in rural Nigeria through technology and education. In less than a year, we’ve impacted over **1,000 children**. Our work was recognized globally when we were selected for the **[Scratch Program 2024](https://sip.scratch.mit.edu/sec/)**, supporting equitable creative computing worldwide.
 
