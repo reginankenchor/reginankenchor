@@ -31,7 +31,6 @@ I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.o
 🛠️ Serving as an **OSPO Ambassador** at **IKEA**, helping organizations adopt open source tools.  
 🏛️ Served two terms (2020–2024) as **Vice President of the GNOME Board of Directors** and as Rotational Governance Committee Secretary and Chair.  
 
-Looking forward to continuing my contributions and inspiring others in the open source and technology space!
 
 ---
 
