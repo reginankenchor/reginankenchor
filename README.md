@@ -14,7 +14,7 @@ I am committed to **open source and education**, and I’ve dedicated my career 
 I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.openkidsafrica.org/)**, a non-profit empowering children in rural Nigeria through technology and education. In less than a year, we’ve impacted over **1,000 children**. Our work was recognized globally when we were selected for the **[Scratch Program 2024](https://sip.scratch.mit.edu/sec/)**, supporting equitable creative computing worldwide.
 
 
-🚀 *In my journey through Open Source, I've had the privilege to work on several exciting initiatives:**
+🚀 *In my journey through Open Source, I've had the privilege to work on several exciting initiatives:*
 
 ✍️ Authored over **15 articles** on Open Source, OSPO, and technology.  
 🌍 Delivered over **20 talks** at open source and technology conferences globally.  
