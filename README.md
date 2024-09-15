@@ -48,6 +48,7 @@ I believe that **"soft skills"**—like communication, empathy, and collaboratio
 - [Projects, Programs, and Events](projects_and_programs.md)  
 - [Podcasts](podcasts.md)
 - [Recommendations](recommendations_from_linkedin.md)
+- [Subscribe to my Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7220392539630030848)
 
 ---
 
