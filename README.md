@@ -20,7 +20,6 @@ Over the years, I’ve:
 - **Hosting a podcast 🎤**, inspiring more women contributions to open source through storytelling.  
 - **Organized over 10 events and programs**, including recurring annual events, ranging from small meetups to large conferences.
 - Built and managed developer communities, including founding the **GNOME Africa Chapter** from the ground up, which now has over **500 contributors** across Africa.
-- Authored over **15 articles** on Open Source, OSPO, and technology. 
 - **Serving as an OSPO Ambassador** at **IKEA**, acting as a subject matter expert, helping organizations and teams adopt open source tools.  
 - **Served two terms (2020–2024)** as the vice President of the GNOME Board of Directors** and Rotational Governance Committee Secretary and Chair**
 
