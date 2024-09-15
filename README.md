@@ -24,6 +24,7 @@ I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.o
 🚀 *In my journey through Open Source, I've had the privilege to work on several exciting initiatives:*
 
 ✍️ Authored over **15 articles** on Open Source, OSPO, and technology, featured on **TODO Group**, **InnerSource Commons**, and **This Week in GNOME**.  
+📰 Writing a weekly newsletter on **OSPO and open source**, with a growing community of over **250 subscribers**, sharing insights, best practices, and innovations in the open-source ecosystem. 
 🌍 Delivered over **20 talks** at open source and technology conferences globally.  
 🎤 Host a **podcast**, inspiring more women to contribute to open source through storytelling.  
 🎪 Organized over **10 programs and events**, including recurring annual events, from small meetups to large conferences.  
