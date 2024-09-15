@@ -44,6 +44,14 @@ An annual event that gathers new and existing contributors to discuss GNOME tech
 
 ---
 
+## 🌐 **Linux APP Summit**  
+**Role**: Organizing Team  
+**Link**: [Linux App Summit](https://linuxappsummit.org/)  
+
+An annual event that gathers new and existing contributors to discuss GNOME technologies and open source, with over 200 attendees annually.
+
+---
+
 ## 🌈 **Diversity and Inclusion Project**  
 **Role**: Contributor  
 **Link**: [Diversity and Inclusion Project](https://gitlab.gnome.org/Teams/Engagement/diversity-and-inclusion)  
