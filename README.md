@@ -14,14 +14,17 @@ I am committed to **open source and education**, and I’ve dedicated my career 
 I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.openkidsafrica.org/)**, a non-profit empowering children in rural Nigeria through technology and education. In less than a year, we’ve impacted over **1,000 children**. Our work was recognized globally when we were selected for the **[Scratch Program 2024](https://sip.scratch.mit.edu/sec/)**, supporting equitable creative computing worldwide.
 
 
-Over the years, I’ve:
-- **Authored over 15 articles** on Open Source, OSPO, and technology. 
-- **Given over 20 talks 🌍** at open source and technology conferences globally.  
-- **Hosting a podcast 🎤**, inspiring more women contributions to open source through storytelling.  
-- **Organized over 10 events and programs**, including recurring annual events, ranging from small meetups to large conferences.
-- Built and managed developer communities, including founding the **GNOME Africa Chapter** from the ground up, which now has over **500 contributors** across Africa.
-- **Serving as an OSPO Ambassador** at **IKEA**, acting as a subject matter expert, helping organizations and teams adopt open source tools.  
-- **Served two terms (2020–2024)** as the vice President of the GNOME Board of Directors** and Rotational Governance Committee Secretary and Chair**
+🚀 **In my journey through Open Source, I've had the privilege to work on several exciting initiatives:**
+
+✍️ Authored over **15 articles** on Open Source, OSPO, and technology.  
+🌍 Delivered over **20 talks** at open source and technology conferences globally.  
+🎤 Host a **podcast**, inspiring more women to contribute to open source through storytelling.  
+🎪 Organized over **10 programs and events**, including recurring annual events, from small meetups to large conferences.  
+🌍 Built and managed developer communities, including founding the **GNOME Africa Chapter** from the ground up, which now has over **500 contributors** across Africa.  
+🛠️ Serving as an **OSPO Ambassador** at **IKEA**, helping organizations adopt open source tools.  
+🏛️ Served two terms (2020–2024) as **Vice President of the GNOME Board of Directors** and as Rotational Governance Committee Secretary and Chair.  
+
+Looking forward to continuing my contributions and inspiring others in the open source and technology space!
 
 I believe that **"soft skills"**—like communication, empathy, and collaboration—are some of the hardest but most essential skills to master. My goal is to help **developers, communities, and businesses grow**, and in turn, create a healthier, more inclusive open source ecosystem for everyone.
 
