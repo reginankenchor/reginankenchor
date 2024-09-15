@@ -52,7 +52,7 @@ I believe that **"soft skills"**—like communication, empathy, and collaboratio
 
 ## Fun Facts!  
 
-Fun Fact: I love writing about topics that interest me, especially open source! ✍️ Whether it’s articles, blogs, or stories, I’m always eager to share my thoughts.
+I love writing about topics that interest me, especially open source! ✍️ Whether it’s articles, blogs, or stories, I’m always eager to share my thoughts.
 
 
 
