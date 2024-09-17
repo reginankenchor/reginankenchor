@@ -6,7 +6,7 @@ This section showcases my talks on Open Source, Technology, and EdTech. Explore 
 
 ## 📚 **Open Source, Technology, and EdTech Talks**
 
-You can find all my talks on this [YouTube Playlist](https://www.youtube.com/playlist?list=PLFR3nN23u4nG4VLexiLnjb8SOAi3dlUVQ).
+You can find my talks on this [YouTube Playlist](https://www.youtube.com/playlist?list=PLFR3nN23u4nG4VLexiLnjb8SOAi3dlUVQ).
 
 ---
 
