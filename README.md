@@ -11,7 +11,7 @@ I have over **10 years of experience in the technology industry**, including rol
 
 ## Commitment to Open Source & Education
 
-I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. Leveraging **open source for social good** is a key motivator in my work.
+I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. Leveraging **open source for social good** is a key motivator in my work. I have a proven track record of leading and collaborating with diverse, distributed teams, achieving success in large and complex international organizations, and applying Free and Open Source Software (FOSS) principles to benefit society. 
 
 ## Founder and Executive Director of OpenKids Africa
 
