@@ -4,6 +4,14 @@ This section highlights the various open source projects, programs, and events I
 
 ---
 
+## 🌍 **GNOME Africa Community Project**  
+**Role**: Program Manager 
+**Link**: [GNOME Africa Community Project](https://gitlab.gnome.org/Teams/Engagement/gnome-africa/gnomeafrica)  
+
+---
+
+A project aimed at onboarding new contributors to GNOME through initiatives like Outreachy, Google Season of Docs, and University outreach programs.
+
 ## 🛠 **Scalable Onboarding Program**  
 **Role**: Program Contributor  
 **Link**: [Scalable Onboarding Program](https://gitlab.gnome.org/Teams/Engagement/initiatives/scalable-onboarding)  
@@ -17,14 +25,6 @@ A program designed to create a scalable, measurable, and effective onboarding ex
 **Link**: [GNOME Africa Blog and Social Media](https://gitlab.gnome.org/Teams/Engagement/gnome-africa/gnome-africa-blog-and-social-media)  
 
 A project focused on creating social media content, including blogs, to engage the GNOME Africa community.
-
----
-
-## 🌍 **GNOME Africa Community Project**  
-**Role**: Project Maintainer & Community Director  
-**Link**: [GNOME Africa Community Project](https://gitlab.gnome.org/Teams/Engagement/gnome-africa/gnomeafrica)  
-
-A project aimed at onboarding new contributors to GNOME through initiatives like Outreachy, Google Season of Docs, and University outreach programs.
 
 ---
 
