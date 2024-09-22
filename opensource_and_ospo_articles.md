@@ -53,11 +53,11 @@ This section contains my articles on Open Source, OSPO (Open Source Program Offi
    [Read on LinkedIn](https://www.linkedin.com/pulse/guide-digital-public-goods-dpgs-infrastructure-dpi-role-nkenchor-dfkof/?trackingId=m7uotyO8T0G7YTRHA4L0%2Bg%3D%3D)
 
 12. **The Role of SBOMs and OSPOs in Securing Open Source Software**  
-   _Published on: September 14, 2024_  
+   _Published on: September 19, 2024_  
    [Read on LinkedIn](https://www.linkedin.com/pulse/role-sboms-ospos-securing-open-source-software-regina-nkenchor-xmqzf/?trackingId=ZWcQIpgyRUSk%2BMc4Ylgh%2Fw%3D%3D)
 
 12. **The Role of Automated Tools in Open Source Security**  
-   _Published on: September 14, 2024_  
+   _Published on: September 21, 2024_  
    [Read on LinkedIn](https://www.linkedin.com/pulse/role-automated-tools-open-source-security-regina-nkenchor-j2daf/?trackingId=6%2Buc4%2BmoQmq8ID437ScUbg%3D%3D)
 
 ---
