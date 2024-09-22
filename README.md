@@ -7,7 +7,7 @@
 
 # Welcome to my GitHub! 
 
-I have over **10 years of experience in the technology industry**. I’ve led digital transformation projects in tax, finance, and education, and am currently leading similar efforts in the retail and open source ecosystems. My expertise spans **Software Engineer (backend development)**, **program and project management**, **developer relations**, **community management**, and **technical support**.
+I have over **10 years of experience in the technology industry**. I’ve led digital transformation projects in tax, finance, and education, and am currently leading similar efforts in the retail and open source ecosystems. My expertise spans **software engineer (backend development)**, **program and project management**, **developer relations**, **community management**, and **technical support**.
 
 ## Commitment to Open Source & Education
 
