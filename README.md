@@ -7,13 +7,11 @@
 
 # Welcome to my GitHub! 
 
-I have over **10 years of experience in the technology industry**, including roles as a software engineer. I’ve led digital transformation projects in tax, finance, and education, and am currently leading similar efforts in the retail and open source ecosystems. My expertise spans **backend development**, **program and project management**, **developer relations**, **community management**, and **technical support**.
+I have over **10 years of experience in the technology industry**. I’ve led digital transformation projects in tax, finance, and education, and am currently leading similar efforts in the retail and open source ecosystems. My expertise spans **Software Engineer (backend development)**, **program and project management**, **developer relations**, **community management**, and **technical support**.
 
 ## Commitment to Open Source & Education
 
 I am committed to **open source and education**, and I’ve dedicated my career to supporting and building **developer communities**. I focus on creating **diverse, inclusive, and empathetic open source cultures** while improving the experience for newcomers—especially those from underrepresented backgrounds. I have a proven track record of leading and collaborating with diverse, distributed teams, achieving success in large and complex international organizations, and applying Free and Open Source Software (FOSS) principles to benefit society. 
-
-## Founder and Executive Director of OpenKids Africa
 
 I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.openkidsafrica.org/)**, a non-profit empowering children in rural Nigeria through technology and education. In less than a year, we’ve impacted over **1,000 children**. Our work was recognized globally when we were selected for the **[Scratch Education Collaborative Program 2024](https://sip.scratch.mit.edu/sec/)**, supporting equitable creative computing worldwide.
 
@@ -30,7 +28,6 @@ I am the **Founder and Executive Director** of **[OpenKids Africa](https://www.o
 - 🛠️ **Serving as an OSPO Ambassador** at **IKEA**, helping organizations adopt open source tools.
 - 🏛️ **Served two terms (2020–2024) as Vice President of the GNOME Board of Directors** and as Rotational Governance Committee Secretary and Chair.
 - 📰 **Writing a weekly newsletter** on **OSPO and open source**, with a growing community of over **250 subscribers**, sharing insights, best practices, and innovations in the open-source ecosystem.
-
 
 
 ---
