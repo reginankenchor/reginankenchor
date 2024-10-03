@@ -4,8 +4,16 @@ This section highlights the various open source projects, programs, and events I
 
 ---
 
+## 🌍 **InnerSource Commons Community Africa**  
+**Role**: Founder and Project Lead  
+**Link**: [InnerSource Commons Community Africa](https://github.com/InnerSourceCommons/africa)  
+
+A project aimed at promoting InnerSource practices accross Africa.
+
+---
+
 ## 🌍 **GNOME Africa Community Project**  
-**Role**: Program Manager 
+**Role**: Founder and Program Manager 
 **Link**: [GNOME Africa Community Project](https://gitlab.gnome.org/Teams/Engagement/gnome-africa/gnomeafrica)  
 
 A project aimed at onboarding new contributors to GNOME through initiatives like Outreachy, Google Season of Docs, and University outreach programs.
