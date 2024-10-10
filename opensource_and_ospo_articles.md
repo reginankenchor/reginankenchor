@@ -60,6 +60,16 @@ This section contains my articles on Open Source, OSPO (Open Source Program Offi
    _Published on: September 21, 2024_  
    [Read on LinkedIn](https://www.linkedin.com/pulse/role-automated-tools-open-source-security-regina-nkenchor-j2daf/?trackingId=6%2Buc4%2BmoQmq8ID437ScUbg%3D%3D)
 
+
+15. **Understanding Supply Chain Security in Open Source Software**  
+   _Published on: September 26, 2024_  
+   [Read on LinkedIn](https://www.linkedin.com/pulse/understanding-supply-chain-security-open-source-regina-nkenchor-c6vwc/?trackingId=DofGY%2FK6SvWV9bxaJ%2FDEvA%3D%3D)
+
+
+14. **The Role of Automated Tools in Open Source Security**  
+   _Published on: September 21, 2024_  
+   [Read on LinkedIn](https://www.linkedin.com/pulse/role-automated-tools-open-source-security-regina-nkenchor-j2daf/?trackingId=6%2Buc4%2BmoQmq8ID437ScUbg%3D%3D)
+
 ---
 
 ✨ Feel free to check back regularly for more articles! 📚✍️
