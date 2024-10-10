@@ -66,9 +66,9 @@ This section contains my articles on Open Source, OSPO (Open Source Program Offi
    [Read on LinkedIn](https://www.linkedin.com/pulse/understanding-supply-chain-security-open-source-regina-nkenchor-c6vwc/?trackingId=DofGY%2FK6SvWV9bxaJ%2FDEvA%3D%3D)
 
 
-16. **The Role of Automated Tools in Open Source Security**  
+16. **Understanding Open-Source Observability: A Guide**  
    _Published on: September 21, 2024_  
-   [Read on LinkedIn](https://www.linkedin.com/pulse/role-automated-tools-open-source-security-regina-nkenchor-j2daf/?trackingId=6%2Buc4%2BmoQmq8ID437ScUbg%3D%3D)
+   [Read on LinkedIn](https://www.linkedin.com/pulse/understanding-open-source-observability-guide-regina-nkenchor-9oebf/?trackingId=41ygoisCQAm%2F9AekmwmEPw%3D%3D)
 
 ---
 
