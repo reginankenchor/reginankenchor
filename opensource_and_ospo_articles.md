@@ -67,8 +67,12 @@ This section contains my articles on Open Source, OSPO (Open Source Program Offi
 
 
 16. **Understanding Open-Source Observability: A Guide**  
-   _Published on: September 21, 2024_  
+   _Published on: September 29, 2024_  
    [Read on LinkedIn](https://www.linkedin.com/pulse/understanding-open-source-observability-guide-regina-nkenchor-9oebf/?trackingId=41ygoisCQAm%2F9AekmwmEPw%3D%3D)
+
+17. **The Launch of InnerSource Commons Community Africa**  
+   _Published on: October 6th, 2024_  
+   [Read on LinkedIn](https://www.linkedin.com/pulse/launch-innersource-commons-community-africa-regina-nkenchor-wytif/?trackingId=oSwk09pQQY6DtvIHVWr6cA%3D%3D)
 
 ---
 
