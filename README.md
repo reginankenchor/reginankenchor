@@ -7,7 +7,7 @@
 - 🧭 **OSPO Ambassador at IKEA** (Apr 2023 – Dec 2024) — supporting open source adoption and strategy in enterprise settings  
 - ✍️ [Articles on Open Source & OSPO](opensource_and_ospo_articles.md) | [Conference Talks](talks.md) | [Projects & Events](projects_and_programs.md)  
 - 🎤 Speaker at open source & InnerSource events | 🎙️ [Podcast Host](podcasts.md) | 📰 [OSPO Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7220392539630030848)  
-- 💬 Ask me about: `#OpenSource`, `#InnerSource`, `#OSPO`, `#Community`, `#ProgramManagement`, `#Governance`  
+- 💬 Ask me about: `#OpenSource`, `#InnerSource`, `#OSPO`, `#Communitymanagement`, `#ProgramManagement`, `#Governance`  
 - 😄 Pronouns: she/her  
 - 📫 [LinkedIn](https://www.linkedin.com/in/reginankenchor) | [Recommendations](recommendations_from_linkedin.md)
 
