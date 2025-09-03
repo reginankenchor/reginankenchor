@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻 Program Manager at **Linux Foundation** | MSc in Informatics | Backend Developer & Open Source Community Builder  
 - 🌍 **Project Lead**, [InnerSource Africa Community](https://innersourcecommons.org/community/) | Member, [InnerSource Commons Foundation](https://innersourcecommons.org/about/members/)
-- 🏛️ **Vice President**, GNOME Foundation Board (2020–2024) — supporting governance and open source leadership  
+- 🏛️ ** Ex Vice President**, GNOME Foundation Board (2020–2024) — supporting governance and open source leadership  
 - 🧑🏽‍🤝‍🧑🏽 Local Community Founder, **GNOME Africa** — Building contributor communities across Africa  
 - 🧭 **OSPO Ambassador at IKEA** (Apr 2023 – Dec 2024) — supporting open source adoption and strategy in enterprise settings  
 - ✍️ [Articles on Open Source & OSPO](opensource_and_ospo_articles.md) | [Conference Talks](talks.md) | [Projects & Events](projects_and_programs.md)  
