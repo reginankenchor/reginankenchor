@@ -2,7 +2,7 @@
 
 ### WHOAMI 👋
 
-- 👩🏽‍💻 Program Manager at **Linux Foundation** | MSc in Informatics | Backend Developer & Open Source Community Builder  
+- 👩🏽‍💻 Program Manager at **Linux Foundation** | MSc in Informatics | Software Engineer & Open Source Community Builder  
 - 🌍 **Project Lead**, [InnerSource Africa Community](https://innersourcecommons.org/community/) | Member, [InnerSource Commons Foundation](https://innersourcecommons.org/about/members/)
 - 🏛️ **Ex Vice President**, GNOME Foundation Board (2020–2024) — supporting governance and open source leadership  
 - 🧑🏽‍🤝‍🧑🏽 Program and Community Manager, **GNOME Africa** — Building contributor communities across Africa  
