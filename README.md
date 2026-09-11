@@ -1,4 +1,4 @@
-Technical Program Leader | Software Engineer| Open Source & AI Ecosystems | Linux Foundation 🐧 | Founder, OpenKids Africa
+Open Source Strategy, Governance & Ecosystem Development | Digital Transformation | Program Manager, The Linux Foundation 🐧 | Founder, OpenKids Africa
 
 ### WHOAMI 👋
 
