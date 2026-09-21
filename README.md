@@ -1,8 +1,7 @@
-Open Source Strategy, Governance & Ecosystem Development | Digital Transformation | Program Manager, The Linux Foundation 🐧 | Founder, OpenKids Africa
+Technology & Open Source Leader | Database & Platform Engineering | Strategy, Governance & Developer Ecosystems | Program Manager, The Linux Foundation 🐧 | Founder, OpenKids Africa
 
-### WHOAMI 👋
-
-- 👩🏽‍💻 Program Manager at **Linux Foundation** | MSc in Informatics | Software Engineer & Open Source Community Builder  
+### OPEN SOURCE LEADERSHIP & COMMUNITY CONTRIBUTIONS
+ 
 - 🌍 **Project Lead**, [InnerSource Africa Community](https://innersourcecommons.org/community/) | Member, [InnerSource Commons Foundation](https://innersourcecommons.org/about/members/)
 - 🌍 Member, **OSPO Swedish Network**, collaborating with professionals and organizations driving open source strategy and community building in Sweden. 
 - 🏛️ **Ex Vice President**, GNOME Foundation Board (2020–2024) — supporting governance and open source leadership  
