@@ -1,4 +1,4 @@
-Technology & Open Source Leader | Database & Platform Engineering | Strategy, Governance & Developer Ecosystems | Program Manager, The Linux Foundation 🐧 | Founder, OpenKids Africa
+Open Source Leader | Database & Platform Engineering | Strategy, Governance & Developer Ecosystems | Program Manager, The Linux Foundation 🐧 | Founder, OpenKids Africa
 
 ### OPEN SOURCE LEADERSHIP & COMMUNITY CONTRIBUTIONS
  
