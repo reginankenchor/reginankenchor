@@ -1,6 +1,8 @@
 # Regina Nkenchor
 
-![Technical Program Leader][technical-program-leader] ![Open Source Strategy & Governance][open-source-governance] ![Database & Platform Engineering][database-platform-engineering]
+[![Technical Program Leader][technical-program-leader]](#projects--contributions)
+[![Open Source Strategy & Governance][open-source-governance]](#leadership--community)
+![Database & Platform Engineering][database-platform-engineering]
 
 ## Projects & Contributions
 
