@@ -1,8 +1,10 @@
 # Regina Nkenchor
 
-[![Technical Program Leader][technical-program-leader]](#projects--contributions)
-[![Open Source Strategy & Governance][open-source-governance]](#leadership--community)
-![Database & Platform Engineering][database-platform-engineering]
+[![Technical Program Leader][technical-program-leader]](#regina-projects)
+[![Open Source Strategy & Governance][open-source-governance]](#regina-community)
+[![Database & Platform Engineering][database-platform-engineering]](https://www.linkedin.com/in/reginankenchor)
+
+<a name="regina-projects"></a>
 
 ## Projects & Contributions
 
@@ -24,6 +26,8 @@
 | PyTorch Foundation TAC Management Site | ![Creator][creator] ![Maintainer][maintainer] |
 
 </details>
+
+<a name="regina-community"></a>
 
 <details>
 <summary><strong>Leadership &amp; Community</strong></summary>
