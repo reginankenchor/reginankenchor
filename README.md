@@ -54,7 +54,7 @@
 
 </details>
 
-[LinkedIn](https://www.linkedin.com/in/reginankenchor) · she/her
+[LinkedIn](https://www.linkedin.com/in/reginankenchor)
 
 [technical-program-leader]: https://img.shields.io/badge/Technical%20Program%20Leader-6941A5?style=flat
 [open-source-governance]: https://img.shields.io/badge/Open%20Source%20Strategy%20%26%20Governance-16756F?style=flat
