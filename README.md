@@ -8,6 +8,8 @@
 
 ## Projects & Contributions
 
+Selected projects I’ve built or maintained on GitHub. Find my broader technical program portfolio on [LinkedIn](https://www.linkedin.com/in/reginankenchor).
+
 | Project | Contribution |
 | --- | --- |
 | PyTorch Foundation Landscape | ![Maintainer][maintainer] |
