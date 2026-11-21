@@ -14,7 +14,7 @@
 | PyTorch Foundation Ambassador Program | ![Built][built] ![Maintainer][maintainer] |
 | PyTorch Foundation Hosted Projects | ![Built][built] ![Maintainer][maintainer] |
 | PyTorch Foundation Artwork | ![Built][built] ![Maintainer][maintainer] |
-| Program Delivery Agent · [Demo](https://reginankenchor.github.io/program-delivery-agent/) · [Code](https://github.com/reginankenchor/program-delivery-agent) | ![Built][built] ![Maintainer][maintainer] |
+| Program Delivery Agent · [Demo](https://reginankenchor.github.io/program-delivery-agent/) | ![Built][built] ![Maintainer][maintainer] |
 
 <details>
 <summary><strong>Private Projects &amp; Workflows</strong></summary>
