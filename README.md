@@ -8,7 +8,7 @@
 
 ## Projects & Contributions
 
-| Project | My contribution |
+| Project | Contribution |
 | --- | --- |
 | PyTorch Foundation Landscape | ![Maintainer][maintainer] |
 | PyTorch Foundation Ambassador Program | ![Built][built] ![Maintainer][maintainer] |
@@ -19,7 +19,7 @@
 <details>
 <summary><strong>Private Projects &amp; Workflows</strong></summary>
 
-| Project | My contribution |
+| Project | Contribution |
 | --- | --- |
 | PyTorch Foundation Ambassador Program Management | ![Built][built] ![Maintainer][maintainer] |
 | Associate Membership Application Automation | ![Built][built] ![Maintainer][maintainer] |
