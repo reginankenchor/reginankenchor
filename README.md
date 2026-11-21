@@ -45,11 +45,11 @@
 <details>
 <summary><strong>Speaking, Writing, Recommendations &amp; More</strong></summary>
 
-[Conference Talks](talks.md) ·
-[Articles on Open Source & OSPO](opensource_and_ospo_articles.md) ·
-[Recommendations](recommendations_from_linkedin.md) ·
-[Projects & Events](projects_and_programs.md) ·
-[Podcasts](podcasts.md) ·
+[Conference Talks](docs/talks.md) ·
+[Articles on Open Source & OSPO](docs/opensource_and_ospo_articles.md) ·
+[Recommendations](docs/recommendations_from_linkedin.md) ·
+[Projects & Events](docs/projects_and_programs.md) ·
+[Podcasts](docs/podcasts.md) ·
 [OSPO Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7220392539630030848)
 
 </details>
