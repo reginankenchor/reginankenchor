@@ -8,22 +8,22 @@
 
 ## Projects & Contributions
 
-| Project | Contribution |
+| Project | My contribution |
 | --- | --- |
 | PyTorch Foundation Landscape | ![Maintainer][maintainer] |
-| PyTorch Foundation Ambassador Program | ![Creator][creator] ![Maintainer][maintainer] |
-| PyTorch Foundation Hosted Projects | ![Creator][creator] ![Maintainer][maintainer] |
-| PyTorch Foundation Artwork | ![Creator][creator] ![Maintainer][maintainer] |
-| Program Delivery Agent · [Demo](https://reginankenchor.github.io/program-delivery-agent/) · [Code](https://github.com/reginankenchor/program-delivery-agent) | ![Creator][creator] ![Maintainer][maintainer] |
+| PyTorch Foundation Ambassador Program | ![Built][built] ![Maintainer][maintainer] |
+| PyTorch Foundation Hosted Projects | ![Built][built] ![Maintainer][maintainer] |
+| PyTorch Foundation Artwork | ![Built][built] ![Maintainer][maintainer] |
+| Program Delivery Agent · [Demo](https://reginankenchor.github.io/program-delivery-agent/) · [Code](https://github.com/reginankenchor/program-delivery-agent) | ![Built][built] ![Maintainer][maintainer] |
 
 <details>
 <summary><strong>Private Projects &amp; Workflows</strong></summary>
 
-| Project | Contribution |
+| Project | My contribution |
 | --- | --- |
-| PyTorch Foundation Ambassador Program Management | ![Creator][creator] ![Maintainer][maintainer] |
-| Associate Membership Application Automation | ![Creator][creator] ![Maintainer][maintainer] |
-| PyTorch Foundation TAC Management Site | ![Creator][creator] ![Maintainer][maintainer] |
+| PyTorch Foundation Ambassador Program Management | ![Built][built] ![Maintainer][maintainer] |
+| Associate Membership Application Automation | ![Built][built] ![Maintainer][maintainer] |
+| PyTorch Foundation TAC Management Site | ![Built][built] ![Maintainer][maintainer] |
 
 </details>
 
@@ -59,5 +59,5 @@
 [technical-program-leader]: https://img.shields.io/badge/Technical%20Program%20Leader-6941A5?style=flat
 [open-source-governance]: https://img.shields.io/badge/Open%20Source%20Strategy%20%26%20Governance-16756F?style=flat
 [database-platform-engineering]: https://img.shields.io/badge/Database%20%26%20Platform%20Engineering-A64D6D?style=flat
+[built]: https://img.shields.io/badge/Built-16756F?style=flat
 [maintainer]: https://img.shields.io/badge/Maintainer-6941A5?style=flat
-[creator]: https://img.shields.io/badge/Creator-16756F?style=flat
