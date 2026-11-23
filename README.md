@@ -6,26 +6,30 @@
 
 <a name="regina-projects"></a>
 
-## Projects & Contributions
+## Selected Work & Contributions
 
-Selected projects I’ve built or maintained on GitHub. Find my broader technical program portfolio on [LinkedIn](https://www.linkedin.com/in/reginankenchor).
+For my broader technical program portfolio, see [LinkedIn](https://www.linkedin.com/in/reginankenchor).
 
-| Project | Contribution |
-| --- | --- |
-| PyTorch Foundation Landscape | ![Maintainer][maintainer] |
-| PyTorch Foundation Ambassador Program | ![Built][built] ![Maintainer][maintainer] |
-| PyTorch Foundation Hosted Projects | ![Built][built] ![Maintainer][maintainer] |
-| PyTorch Foundation Artwork | ![Built][built] ![Maintainer][maintainer] |
-| Program Delivery Agent · [Demo](https://reginankenchor.github.io/program-delivery-agent/) | ![Built][built] ![Maintainer][maintainer] |
+<details open>
+<summary><strong>Public Projects</strong></summary>
+
+- [PyTorch Foundation Landscape](https://landscape.pytorch.org/)
+- [PyTorch Foundation Ambassador Program](https://pytorch.org/programs/ambassadors/)
+- PyTorch Foundation Hosted Projects
+- [PyTorch Foundation Artwork](https://pytorch-fdn.github.io/artwork/)
+- [Program Delivery Agent](https://reginankenchor.github.io/program-delivery-agent/)
+
+</details>
 
 <details>
-<summary><strong>Private Projects &amp; Workflows</strong></summary>
+<summary><strong>Internal Projects &amp; Workflows</strong></summary>
 
 | Project | Contribution |
 | --- | --- |
-| PyTorch Foundation Ambassador Program Management | ![Built][built] ![Maintainer][maintainer] |
+| PyTorch Foundation Ambassador Program Management Workspace | ![Built][built] ![Maintainer][maintainer] |
 | Associate Membership Application Automation | ![Built][built] ![Maintainer][maintainer] |
 | PyTorch Foundation TAC Management Site | ![Built][built] ![Maintainer][maintainer] |
+| RISE RFP Tracking Automation | ![Built][built] ![Maintainer][maintainer] |
 
 </details>
 
@@ -55,8 +59,6 @@ Selected projects I’ve built or maintained on GitHub. Find my broader technica
 [OSPO Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7220392539630030848)
 
 </details>
-
-[LinkedIn](https://www.linkedin.com/in/reginankenchor)
 
 [technical-program-leader]: https://img.shields.io/badge/Technical%20Program%20Leader-6941A5?style=flat
 [open-source-governance]: https://img.shields.io/badge/Open%20Source%20Strategy%20%26%20Governance-16756F?style=flat
