@@ -29,7 +29,7 @@ For my broader technical program portfolio, see [LinkedIn](https://www.linkedin.
 | PyTorch Foundation Ambassador Program Management Workspace | ![Built][built] ![Maintainer][maintainer] |
 | Associate Membership Application Automation | ![Built][built] ![Maintainer][maintainer] |
 | PyTorch Foundation TAC Management Site | ![Built][built] ![Maintainer][maintainer] |
-| RISE RFP Tracking Automation | ![Built][built] ![Maintainer][maintainer] |
+| RFP Tracking Automation | ![Built][built] ![Maintainer][maintainer] |
 
 </details>
 
